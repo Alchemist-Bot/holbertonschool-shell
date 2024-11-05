@@ -1,1 +1,0 @@
-Creating scripts in the shell
