@@ -1,0 +1,16 @@
+total 56
+drwxr-xr-x 2 ibarbosag ibarbosag 4096 Nov 11 12:26 .
+drwxr-xr-x 6 ibarbosag ibarbosag 4096 Nov  6 13:28 ..
+-rwxr-xr-x 1 ibarbosag ibarbosag   31 Nov 11 09:43 0-hello_world
+-rwxr-xr-x 1 ibarbosag ibarbosag   28 Nov 11 09:51 1-confused_smiley
+-rwxr-xr-x 1 ibarbosag ibarbosag   27 Nov 11 09:54 2-hellofile
+-rwxr-xr-x 1 ibarbosag ibarbosag   38 Nov 11 09:59 3-twofiles
+-rwxr-xr-x 1 ibarbosag ibarbosag   34 Nov 11 10:41 4-lastlines
+-rwxr-xr-x 1 ibarbosag ibarbosag   34 Nov 11 10:43 5-firstlines
+-rwxr-xr-x 1 ibarbosag ibarbosag   40 Nov 11 10:54 6-third_line
+-rwxr-xr-x 1 ibarbosag ibarbosag   77 Nov 11 12:22 7-file
+-rwxr-xr-x 1 ibarbosag ibarbosag   35 Nov 11 12:26 8-cwd_state
+-rw-r--r-- 1 ibarbosag ibarbosag  143 Nov  6 13:28 README.md
+-rw-r--r-- 1 ibarbosag ibarbosag   12 Nov 11 12:22 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 ibarbosag ibarbosag  800 Nov 11 10:53 iacta
+-rw-r--r-- 1 ibarbosag ibarbosag    0 Nov 11 12:26 ls_cwd_content
